@@ -1,1 +1,1 @@
-a project of things and stuff
+This script using three separate datasets predicts whether users prefer saltier or fattier cheeses, if an individual will get approved for a loan, and what attributes of a Toyota car most grealty affect its price - all using neural networks.
